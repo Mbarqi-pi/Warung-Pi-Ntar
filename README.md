@@ -67,6 +67,64 @@ Kamu cukup copy seluruh blok di atas, lalu paste ke README.md GitHub tepat di ba
 
 Apakah kamu ingin saya bantu lanjutkan dengan bagian visualisasi atau struktur aktivitas
 
+---
+
+## 🗓️ Field Plan 2025 – Pi Mobile
+
+**Warung Pi Ntar – Pi Mobile** will operate as a community-based outreach program focused on *education, demonstration, and activation* of the Pi economy in local environments such as campuses, marketplaces, and neighborhoods.  
+
+*Warung Pi Ntar – Pi Mobile* akan beroperasi sebagai program berbasis komunitas yang berfokus pada *edukasi, demonstrasi, dan aktivasi* ekonomi Pi di lingkungan lokal seperti kampus, pasar, dan permukiman.
+
+---
+
+### 🧭 Implementation Phases
+
+| Phase | Period | Focus | Key Activities |
+|:------|:-------|:-------|:----------------|
+| **Phase 1** | Jan–Apr 2025 | Preparation & Outreach | Vehicle branding, volunteer recruitment, Pi education materials, campus coordination. |
+| **Phase 2** | May–Aug 2025 | Field Launch | Campus roadshow, Pi merchant onboarding, field demo transactions, data collection. |
+| **Phase 3** | Sep–Dec 2025 | Expansion & Evaluation | Cross-district visits, Pi user feedback, micro-merchant mentoring, evaluation report. |
+
+*🧭 Tahapan Implementasi:*  
+| Tahap | Periode | Fokus | Kegiatan Utama |
+|:------|:-------|:-------|:----------------|
+| **Tahap 1** | Jan–Apr 2025 | Persiapan & Sosialisasi | Branding kendaraan, rekrut relawan, materi edukasi Pi, koordinasi kampus. |
+| **Tahap 2** | Mei–Ags 2025 | Peluncuran Lapangan | Roadshow kampus, onboarding merchant Pi, demo transaksi, pengumpulan data lapangan. |
+| **Tahap 3** | Sep–Des 2025 | Perluasan & Evaluasi | Kunjungan antar wilayah, umpan balik pengguna Pi, pendampingan merchant kecil, laporan evaluasi. |
+
+---
+
+### 📍 Target Areas
+- IAIN Curup Campus and surrounding student housing  
+- Local markets and mini warungs accepting Pi payments  
+- Small community events promoting digital economy awareness  
+
+*📍 Area Sasaran:*  
+- Kampus IAIN Curup dan kawasan kos mahasiswa sekitar  
+- Pasar lokal dan warung kecil yang mulai menerima Pi  
+- Acara komunitas kecil bertema ekonomi digital dan gotong royong  
+
+---
+
+### 🤝 Expected Collaborations
+- Student organizations and Pi community volunteers  
+- Local merchants and campus entrepreneurs  
+- Educational institutions and local government support  
+
+*🤝 Kolaborasi yang Diharapkan:*  
+- Organisasi mahasiswa dan relawan komunitas Pi  
+- Pedagang lokal dan wirausahawan kampus  
+- Lembaga pendidikan serta dukungan pemerintah daerah  
+
+---
+
+### 🌱 Long-Term Vision
+The Pi Mobile initiative aims to evolve into a **“Smart Pi Community Hub”**, serving as a model of micro-economy transformation driven by decentralized innovation and digital inclusion.  
+
+*🌱 Visi Jangka Panjang:*  
+Inisiatif Pi Mobile bertujuan berkembang menjadi **“Smart Pi Community Hub”**, sebagai model transformasi ekonomi mikro berbasis inovasi desentralisasi dan inklusi digital.
+
+---
 ## 📫 Contact
 Maintained by **M. Barqi D.**  
 📍 Rejang Lebong, Bengkulu, Indonesia  
