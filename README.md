@@ -20,6 +20,7 @@ Warung Pi Ntar is a real-world initiative that integrates daily economic activit
 To make Pi a part of everyday life — *from the campus to the community.*
 
 ---
+
 ## 🚚 Warung Pi Ntar – Pi Mobile
 
 To bring its vision into real-life action, **Warung Pi Ntar** expands its presence through **Pi Mobile** — a moving initiative designed to reach communities directly, promote Pi Network education, and demonstrate real-world Pi adoption.  
@@ -61,11 +62,6 @@ Pi Mobile acts as a real-world bridge between education and adoption, helping pe
 
 *💡 Dampak:*  
 Pi Mobile menjadi jembatan nyata antara edukasi dan adopsi, membantu masyarakat merasakan langsung nilai Pi serta membangun kepercayaan terhadap kegunaannya.
-
----
-Kamu cukup copy seluruh blok di atas, lalu paste ke README.md GitHub tepat di bawah bagian Vision ✅
-
-Apakah kamu ingin saya bantu lanjutkan dengan bagian visualisasi atau struktur aktivitas
 
 ---
 
