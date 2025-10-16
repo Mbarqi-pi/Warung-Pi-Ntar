@@ -1,0 +1,9 @@
+Warung-Pi-Ntar/
+│
+├── README.md
+├── LICENSE
+│
+├── docs/        → berisi dokumen tambahan, proposal, ide, dan panduan.
+├── assets/      → gambar, logo, mockup Warung Pi Ntar.
+├── src/         → (nanti) untuk kode sumber aplikasi jika dikembangkan.
+└── ideas/       → konsep, draft, atau catatan pengembangan awal.
