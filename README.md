@@ -125,6 +125,62 @@ The Pi Mobile initiative aims to evolve into a **“Smart Pi Community Hub”**,
 Inisiatif Pi Mobile bertujuan berkembang menjadi **“Smart Pi Community Hub”**, sebagai model transformasi ekonomi mikro berbasis inovasi desentralisasi dan inklusi digital.
 
 ---
+
+## 🔄 Ecosystem Flow – Warung Pi Ntar & Pi Mobile
+
+Below is the conceptual flow showing how **Warung Pi Ntar** and **Pi Mobile** work together to strengthen Pi Network adoption and community engagement.
+
+*Berikut alur konseptual yang menunjukkan bagaimana **Warung Pi Ntar** dan **Pi Mobile** saling terhubung dalam memperkuat adopsi Pi Network dan keterlibatan komunitas.*
+
+```text
+                  ┌──────────────────────────┐
+                  │      WARUNG PI NTAR      │
+                  │ (Main Pi Center & Hub)   │
+                  └────────────┬─────────────┘
+                               │
+                               ▼
+                 ┌──────────────────────────┐
+                 │        PI MOBILE         │
+                 │ (Outreach & Activation)  │
+                 └────────────┬─────────────┘
+                               │
+        ┌──────────────────────┼───────────────────────┐
+        ▼                      ▼                       ▼
+┌─────────────┐        ┌─────────────┐         ┌────────────────┐
+│  STUDENTS   │        │  MERCHANTS  │         │  LOCAL COMMUNITY│
+│ Education   │        │ Onboarding  │         │ Awareness       │
+└──────┬──────┘        └──────┬──────┘         └────────┬────────┘
+       │                      │                         │
+       └──────────────┬───────┴──────────────┬──────────┘
+                      ▼                      ▼
+            ┌──────────────────────────┐   ┌──────────────────────────┐
+            │ PI TRANSACTIONS & USES   │   │ FEEDBACK & COLLABORATION │
+            └────────────┬─────────────┘   └────────────┬─────────────┘
+                         ▼                           ▼
+                 ┌──────────────────────────────┐
+                 │ STRENGTHENED PI ECOSYSTEM 🌐 │
+                 └──────────────────────────────┘
+🧩 Description
+Warung Pi Ntar acts as the base hub — the fixed center of education, mentoring, and collaboration.
+
+Pi Mobile functions as the active outreach unit — bringing knowledge, tools, and real usage to the field.
+
+Students, merchants, and communities are key stakeholders who drive the practical ecosystem.
+
+Feedback loops from the field ensure continuous improvement and wider adoption.
+
+🧩 Penjelasan:
+
+Warung Pi Ntar berperan sebagai pusat utama edukasi, pendampingan, dan kolaborasi.
+
+Pi Mobile menjadi unit aktif lapangan yang membawa edukasi dan adopsi langsung ke masyarakat.
+
+Mahasiswa, pedagang, dan komunitas adalah pemangku kepentingan utama dalam penggerak ekosistem.
+
+Umpan balik lapangan memastikan peningkatan berkelanjutan dan adopsi yang makin luas.
+
+---
+
 ## 📫 Contact
 Maintained by **M. Barqi D.**  
 📍 Rejang Lebong, Bengkulu, Indonesia  
