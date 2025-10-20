@@ -1,169 +1,98 @@
-# 🏪 Warung-Pi Ntar  
-*Bilingual Project Documentation (English–Indonesian)*  
+# 🏪 Warung Pi Ntar | Official Pi Center Project  
 
-> **Note:** This README is written in both English and Indonesian to make it accessible for the global Pi Network community and local collaborators.  
-> **Catatan:** README ini ditulis dalam dua bahasa (Inggris–Indonesia) agar mudah dipahami oleh komunitas Pi Network global dan kolaborator lokal.  
-
----
-
-## 🌍 Overview  
-
-**Warung Pi Ntar** is a **Pi Center** — a hub for information, education, incubation, and collaboration for Pi adoption.  
-
-*Warung Pi Ntar* adalah **Pusat Pi** — wadah informasi, edukasi, inkubasi, dan kolaborasi untuk mendorong adopsi Pi.  
-
-It is a real-world initiative integrating daily economic activity (a local store and community hub) with Pi Network education and implementation.  
-Located near **IAIN Curup**, Indonesia, it serves as both a **community center** and **adoption showcase** for Pi Network.  
-
-Inisiatif ini mengintegrasikan kegiatan ekonomi sehari-hari (warung dan pusat komunitas) dengan edukasi dan implementasi Pi Network.  
-Berlokasi di dekat **IAIN Curup**, Indonesia, proyek ini berfungsi sebagai **pusat komunitas** dan **contoh adopsi nyata Pi Network.**
+![Status](https://img.shields.io/badge/Status-Under_Development-orange)
+![Category](https://img.shields.io/badge/Category-Pi_Ecosystem-blueviolet)
+![License](https://img.shields.io/badge/License-Open_Project-green)
+![Location](https://img.shields.io/badge/Location-Indonesia-red)
+![Network](https://img.shields.io/badge/Powered_by-Pi_Network-purple)
 
 ---
 
-## 🎯 Objectives  
+## 🇬🇧 English Version  
 
-- Promote **real-life utility** of Pi Network.  
-- Provide **education and mentoring** for new Pioneers.  
-- Create a **community-based marketplace** using Pi as medium of exchange.  
-- Serve as a **model project** for Pi Ventures and other Pi-based entrepreneurs.  
+### 🌍 Overview  
+**Warung Pi Ntar** is an **Official Pi Center Project** — a hub for information, education, incubation, and collaboration that promotes real-world Pi adoption.  
 
-*🎯 Tujuan:*  
-- Mempromosikan **kegunaan nyata Pi Network dalam kehidupan sehari-hari**.  
-- Menyediakan **edukasi dan pendampingan** bagi pionir baru.  
-- Membangun **pasar komunitas** yang menggunakan Pi sebagai alat tukar.  
-- Menjadi **proyek percontohan** bagi Pi Ventures dan pengusaha berbasis Pi.  
-
----
-
-## 🧩 Components  
-
-1. **Warung (Store)** – daily needs shop accepting Pi.  
-2. **Pi EduHub** – training and mentorship area.  
-3. **Pi Lab** – incubation and collaboration space for Pi-related projects.  
-
----
-
-## 🚀 Vision  
-
-To make Pi a part of everyday life — *from the campus to the community.*  
-
-*Mewujudkan Pi menjadi bagian dari kehidupan sehari-hari — dari kampus hingga ke masyarakat.*  
-
----
-
-## 🚚 Warung Pi Ntar – Pi Mobile  
-
-To bring its vision into real-life action, **Warung Pi Ntar** expands its presence through **Pi Mobile** — a moving initiative designed to reach communities directly, promote Pi Network education, and demonstrate real-world Pi adoption.  
-
-*Untuk mewujudkan visinya secara nyata, **Warung Pi Ntar** memperluas jangkauannya melalui **Pi Mobile** — sebuah inisiatif keliling yang dirancang untuk menjangkau masyarakat secara langsung, mempromosikan edukasi Pi Network, dan menunjukkan penggunaan Pi dalam kehidupan nyata.*  
+Located near **IAIN Curup, Indonesia**, it integrates daily economic activities (a community store and learning hub) with Pi Network education and implementation. It serves as both a **community center** and **live demonstration site** for the Pi ecosystem.  
 
 ---
 
 ### 🎯 Objectives  
+- Promote the **real-life utility** of Pi Network.  
+- Provide **education and mentoring** for new Pioneers.  
+- Create a **community-based marketplace** using Pi as a medium of exchange.  
+- Serve as a **model project** for Pi Ventures and Pi-based entrepreneurs.  
 
-- 🚀 Bring Pi awareness and education directly to students, merchants, and local communities.  
-- 💱 Demonstrate how Pi can be used for everyday transactions in simple and relatable ways.  
-- 🛍️ Encourage micro-merchants and small warungs to accept Pi as a form of payment.  
+---
+
+### 🧩 Components  
+1. **Warung (Store)** – Daily needs shop accepting Pi.  
+2. **Pi EduHub** – Training and mentoring center.  
+3. **Pi Lab** – Incubation and collaboration space for Pi-based innovation.  
+
+---
+
+### 🚀 Vision  
+To make Pi a part of everyday life — *from campus to community.*  
+
+---
+
+## 🚚 Warung Pi Ntar – Pi Mobile  
+To extend its mission into real-life impact, **Warung Pi Ntar** launches **Pi Mobile** — a mobile initiative designed to reach communities directly, promote Pi education, and demonstrate the use of Pi in daily transactions.  
+
+---
+
+### 🎯 Objectives  
+- 🚀 Deliver Pi awareness and education directly to students, merchants, and local communities.  
+- 💱 Demonstrate everyday transactions using Pi in simple, relatable ways.  
+- 🛍️ Encourage micro-merchants and small warungs to accept Pi as payment.  
 - 🌍 Strengthen the local Pi ecosystem through mobility and visibility.  
-
-*🎯 Tujuan:*  
-- 🚀 Membawa edukasi dan kesadaran tentang Pi langsung kepada mahasiswa, pedagang, dan masyarakat sekitar.  
-- 💱 Menunjukkan cara penggunaan Pi untuk transaksi sehari-hari dengan cara yang sederhana dan mudah dipahami.  
-- 🛍️ Mendorong pedagang kecil dan warung untuk menerima Pi sebagai alat pembayaran.  
-- 🌍 Memperkuat ekosistem Pi lokal melalui mobilitas dan visibilitas lapangan.  
 
 ---
 
 ### 🔧 Activities  
-
-- 🚌 Roadshow and pop-up stalls under the “Warung Pi Ntar – Pi Mobile” brand.  
+- 🚌 Roadshows and pop-up stalls under the “Warung Pi Ntar – Pi Mobile” brand.  
 - 👥 Field mentoring and onboarding for new Pi users.  
-- 🛒 Small-scale Pi product transactions and community sharing events.  
+- 🛒 Small-scale Pi transactions and community engagement events.  
 - 📚 Distribution of educational materials and Pi merchandise.  
-
-*🔧 Kegiatan:*  
-- 🚌 Roadshow dan stan keliling dengan identitas “Warung Pi Ntar – Pi Mobile.”  
-- 👥 Pendampingan lapangan dan onboarding pengguna Pi baru.  
-- 🛒 Transaksi produk kecil-kecilan menggunakan Pi dan kegiatan berbagi komunitas.  
-- 📚 Pembagian materi edukasi dan merchandise Pi.  
 
 ---
 
 ### 💡 Impact  
-
-Pi Mobile acts as a real-world bridge between education and adoption, helping people experience the value of Pi firsthand and build trust in its utility.  
-
-*💡 Dampak:*  
-Pi Mobile menjadi jembatan nyata antara edukasi dan adopsi, membantu masyarakat merasakan langsung nilai Pi serta membangun kepercayaan terhadap kegunaannya.  
+Pi Mobile acts as a real-world bridge between education and adoption, helping people experience the value of Pi firsthand while building trust in its practicality.  
 
 ---
 
-## 🗓️ Field Plan 2025 – Pi Mobile  
-
-**Warung Pi Ntar – Pi Mobile** will operate as a community-based outreach program focused on *education, demonstration, and activation* of the Pi economy in local environments such as campuses, marketplaces, and neighborhoods.  
-
-*Warung Pi Ntar – Pi Mobile* akan beroperasi sebagai program berbasis komunitas yang berfokus pada *edukasi, demonstrasi, dan aktivasi* ekonomi Pi di lingkungan lokal seperti kampus, pasar, dan permukiman.  
-
----
-
-### 🧭 Implementation Phases  
+## 🗓️ 2025 Field Plan – Pi Mobile  
 
 | Phase | Period | Focus | Key Activities |
-|:------|:-------|:-------|:----------------|
+|:------|:-------|:------|:----------------|
 | **Phase 1** | Jan–Apr 2025 | Preparation & Outreach | Vehicle branding, volunteer recruitment, Pi education materials, campus coordination. |
-| **Phase 2** | May–Aug 2025 | Field Launch | Campus roadshow, Pi merchant onboarding, field demo transactions, data collection. |
-| **Phase 3** | Sep–Dec 2025 | Expansion & Evaluation | Cross-district visits, Pi user feedback, micro-merchant mentoring, evaluation report. |
-
-*🧭 Tahapan Implementasi:*  
-
-| Tahap | Periode | Fokus | Kegiatan Utama |
-|:------|:-------|:-------|:----------------|
-| **Tahap 1** | Jan–Apr 2025 | Persiapan & Sosialisasi | Branding kendaraan, rekrut relawan, materi edukasi Pi, koordinasi kampus. |
-| **Tahap 2** | Mei–Ags 2025 | Peluncuran Lapangan | Roadshow kampus, onboarding merchant Pi, demo transaksi, pengumpulan data lapangan. |
-| **Tahap 3** | Sep–Des 2025 | Perluasan & Evaluasi | Kunjungan antar wilayah, umpan balik pengguna Pi, pendampingan merchant kecil, laporan evaluasi. |  
+| **Phase 2** | May–Aug 2025 | Field Launch | Campus roadshow, merchant onboarding, demo transactions, data collection. |
+| **Phase 3** | Sep–Dec 2025 | Expansion & Evaluation | Cross-district visits, user feedback, micro-merchant mentoring, evaluation report. |
 
 ---
 
 ### 📍 Target Areas  
-
-- IAIN Curup Campus and surrounding student housing  
-- Local markets and mini warungs accepting Pi payments  
-- Small community events promoting digital economy awareness  
-
-*📍 Area Sasaran:*  
-- Kampus IAIN Curup dan kawasan kos mahasiswa sekitar  
-- Pasar lokal dan warung kecil yang mulai menerima Pi  
-- Acara komunitas kecil bertema ekonomi digital dan gotong royong  
+- IAIN Curup campus and nearby student housing  
+- Local markets and micro-warungs accepting Pi  
+- Community events promoting the digital economy  
 
 ---
 
-### 🤝 Expected Collaborations  
-
+### 🤝 Collaborations  
 - Student organizations and Pi community volunteers  
 - Local merchants and campus entrepreneurs  
-- Educational institutions and local government support  
-
-*🤝 Kolaborasi yang Diharapkan:*  
-- Organisasi mahasiswa dan relawan komunitas Pi  
-- Pedagang lokal dan wirausahawan kampus  
-- Lembaga pendidikan serta dukungan pemerintah daerah  
+- Educational institutions and local government  
 
 ---
 
 ### 🌱 Long-Term Vision  
-
-The Pi Mobile initiative aims to evolve into a **“Smart Pi Community Hub”**, serving as a model of micro-economy transformation driven by decentralized innovation and digital inclusion.  
-
-*🌱 Visi Jangka Panjang:*  
-Inisiatif Pi Mobile bertujuan berkembang menjadi **“Smart Pi Community Hub”**, sebagai model transformasi ekonomi mikro berbasis inovasi desentralisasi dan inklusi digital.  
+The Pi Mobile initiative aims to grow into a **“Smart Pi Community Hub”**, modeling the transformation of local micro-economies through decentralized innovation and digital inclusion.  
 
 ---
 
 ## 🔄 Ecosystem Flow – Warung Pi Ntar & Pi Mobile  
-
-Below is the conceptual flow showing how **Warung Pi Ntar** and **Pi Mobile** work together to strengthen Pi Network adoption and community engagement.  
-
-*Berikut alur konseptual yang menunjukkan bagaimana **Warung Pi Ntar** dan **Pi Mobile** saling terhubung dalam memperkuat adopsi Pi Network dan keterlibatan komunitas.*  
 
 ```text
                   ┌──────────────────────────┐
@@ -189,103 +118,87 @@ Below is the conceptual flow showing how **Warung Pi Ntar** and **Pi Mobile** wo
             ┌──────────────────────────┐   ┌──────────────────────────┐
             │ PI TRANSACTIONS & USES   │   │ FEEDBACK & COLLABORATION │
             └────────────┬─────────────┘   └────────────┬─────────────┘
+                         │                           │
                          ▼                           ▼
+                 ┌──────────────────────────┐
+                 │        PI MAP 🗺️         │
+                 │ Verified Pi Merchants    │
+                 │ & Warung Pi Network Link │
+                 └────────────┬─────────────┘
+                               ▼
                  ┌──────────────────────────────┐
-                 │ STRENGTHENED PI ECOSYSTEM 🌐 │
+                 │ EXPANDED PI ECOSYSTEM 🌐     │
                  └──────────────────────────────┘
-
-
-
-Siap 👍 berikut versi **lengkap, rapi, dan siap tempel langsung ke GitHub** (README.md).
-Format sudah full **Markdown**, bilingual (Inggris–Indonesia), dan kompatibel untuk **Pi Hackathon 2025** maupun **Pi Ventures submission**.
+```
 
 ---
 
-````markdown
-# 🏪 Warung-Pi Ntar  
-*Bilingual Project Documentation (English–Indonesian)*  
+### 🗺️ Pi Map Integration 📍  
 
-> **Note:** This README is written in both English and Indonesian to make it accessible for the global Pi Network community and local collaborators.  
-> **Catatan:** README ini ditulis dalam dua bahasa (Inggris–Indonesia) agar mudah dipahami oleh komunitas Pi Network global dan kolaborator lokal.  
+The **Pi Map** visualizes all formally partnered merchants within the Warung Pi Ntar ecosystem. It allows users to see verified Pi merchants, track real-world adoption, and understand the connected network of Pi transactions. This map is an open-concept digital tool and can evolve as more merchants and users join.  
 
 ---
 
-## 🌍 Overview  
+### 📫 Contact  
+Maintained by **M. Barqi D.**  
+📍 *Rejang Lebong, Bengkulu – Indonesia*  
+📧 **mbarqid@yahoo.com**
 
-**Warung Pi Ntar** is a **Pi Center** — a hub for information, education, incubation, and collaboration for Pi adoption.  
 
-*Warung Pi Ntar* adalah **Pusat Pi** — wadah informasi, edukasi, inkubasi, dan kolaborasi untuk mendorong adopsi Pi.  
+**Indonesia version**
 
-It is a real-world initiative integrating daily economic activity (a local store and community hub) with Pi Network education and implementation.  
-Located near **IAIN Curup**, Indonesia, it serves as both a **community center** and **adoption showcase** for Pi Network.  
+# 🏪 Warung Pi Ntar | Proyek Resmi Pi Center | Official Pi Center Project
 
-Inisiatif ini mengintegrasikan kegiatan ekonomi sehari-hari (warung dan pusat komunitas) dengan edukasi dan implementasi Pi Network.  
-Berlokasi di dekat **IAIN Curup**, Indonesia, proyek ini berfungsi sebagai **pusat komunitas** dan **contoh adopsi nyata Pi Network.**
+
+![Status](https://img.shields.io/badge/Status-Under_Development-orange)
+![Category](https://img.shields.io/badge/Category-Pi_Ecosystem-blueviolet)
+![License](https://img.shields.io/badge/License-Open_Project-green)
+![Location](https://img.shields.io/badge/Location-Indonesia-red)
+![Network](https://img.shields.io/badge/Powered_by-Pi_Network-purple)
 
 ---
 
-## 🎯 Objectives  
+## 🌍 Gambaran Umum  
+**Warung Pi Ntar** adalah **Proyek Resmi Pi Center** — pusat informasi, edukasi, inkubasi, dan kolaborasi untuk mendorong adopsi Pi secara nyata.  
 
-- Promote **real-life utility** of Pi Network.  
-- Provide **education and mentoring** for new Pioneers.  
-- Create a **community-based marketplace** using Pi as medium of exchange.  
-- Serve as a **model project** for Pi Ventures and other Pi-based entrepreneurs.  
+Berlokasi dekat **IAIN Curup, Indonesia**, Warung Pi Ntar mengintegrasikan kegiatan ekonomi sehari-hari (warung komunitas dan pusat edukasi) dengan edukasi dan implementasi Pi Network. Proyek ini berfungsi sebagai **pusat komunitas** sekaligus **contoh nyata adopsi ekosistem Pi**.  
 
-*🎯 Tujuan:*  
-- Mempromosikan **kegunaan nyata Pi Network dalam kehidupan sehari-hari**.  
+---
+
+## 🎯 Tujuan  
+- Mempromosikan **kegunaan nyata Pi Network** dalam kehidupan sehari-hari.  
 - Menyediakan **edukasi dan pendampingan** bagi pionir baru.  
 - Membangun **pasar komunitas** yang menggunakan Pi sebagai alat tukar.  
 - Menjadi **proyek percontohan** bagi Pi Ventures dan pengusaha berbasis Pi.  
 
 ---
 
-## 🧩 Components  
-
-1. **Warung (Store)** – daily needs shop accepting Pi.  
-2. **Pi EduHub** – training and mentorship area.  
-3. **Pi Lab** – incubation and collaboration space for Pi-related projects.  
+## 🧩 Komponen  
+1. **Warung (Toko)** – toko kebutuhan sehari-hari yang menerima Pi.  
+2. **Pi EduHub** – pusat pelatihan dan pendampingan.  
+3. **Pi Lab** – ruang inkubasi dan kolaborasi untuk inovasi berbasis Pi.  
 
 ---
 
-## 🚀 Vision  
-
-To make Pi a part of everyday life — *from the campus to the community.*  
-
-*Mewujudkan Pi menjadi bagian dari kehidupan sehari-hari — dari kampus hingga ke masyarakat.*  
+## 🚀 Visi  
+Mewujudkan Pi menjadi bagian dari kehidupan sehari-hari — *dari kampus hingga ke masyarakat.*  
 
 ---
 
 ## 🚚 Warung Pi Ntar – Pi Mobile  
-
-To bring its vision into real-life action, **Warung Pi Ntar** expands its presence through **Pi Mobile** — a moving initiative designed to reach communities directly, promote Pi Network education, and demonstrate real-world Pi adoption.  
-
-*Untuk mewujudkan visinya secara nyata, **Warung Pi Ntar** memperluas jangkauannya melalui **Pi Mobile** — sebuah inisiatif keliling yang dirancang untuk menjangkau masyarakat secara langsung, mempromosikan edukasi Pi Network, dan menunjukkan penggunaan Pi dalam kehidupan nyata.*  
+Untuk mewujudkan visi secara nyata, **Warung Pi Ntar** meluncurkan **Pi Mobile** — inisiatif keliling yang dirancang untuk menjangkau masyarakat secara langsung, mempromosikan edukasi Pi Network, dan menunjukkan penggunaan Pi dalam transaksi sehari-hari.  
 
 ---
 
-### 🎯 Objectives  
-
-- 🚀 Bring Pi awareness and education directly to students, merchants, and local communities.  
-- 💱 Demonstrate how Pi can be used for everyday transactions in simple and relatable ways.  
-- 🛍️ Encourage micro-merchants and small warungs to accept Pi as a form of payment.  
-- 🌍 Strengthen the local Pi ecosystem through mobility and visibility.  
-
-*🎯 Tujuan:*  
+## 🎯 Tujuan Pi Mobile  
 - 🚀 Membawa edukasi dan kesadaran tentang Pi langsung kepada mahasiswa, pedagang, dan masyarakat sekitar.  
 - 💱 Menunjukkan cara penggunaan Pi untuk transaksi sehari-hari dengan cara yang sederhana dan mudah dipahami.  
 - 🛍️ Mendorong pedagang kecil dan warung untuk menerima Pi sebagai alat pembayaran.  
-- 🌍 Memperkuat ekosistem Pi lokal melalui mobilitas dan visibilitas lapangan.  
+- 🌍 Memperkuat ekosistem Pi lokal melalui mobilitas dan visibilitas.  
 
 ---
 
-### 🔧 Activities  
-
-- 🚌 Roadshow and pop-up stalls under the “Warung Pi Ntar – Pi Mobile” brand.  
-- 👥 Field mentoring and onboarding for new Pi users.  
-- 🛒 Small-scale Pi product transactions and community sharing events.  
-- 📚 Distribution of educational materials and Pi merchandise.  
-
-*🔧 Kegiatan:*  
+## 🔧 Kegiatan  
 - 🚌 Roadshow dan stan keliling dengan identitas “Warung Pi Ntar – Pi Mobile.”  
 - 👥 Pendampingan lapangan dan onboarding pengguna Pi baru.  
 - 🛒 Transaksi produk kecil-kecilan menggunakan Pi dan kegiatan berbagi komunitas.  
@@ -293,144 +206,89 @@ To bring its vision into real-life action, **Warung Pi Ntar** expands its presen
 
 ---
 
-### 💡 Impact  
-
-Pi Mobile acts as a real-world bridge between education and adoption, helping people experience the value of Pi firsthand and build trust in its utility.  
-
-*💡 Dampak:*  
+## 💡 Dampak  
 Pi Mobile menjadi jembatan nyata antara edukasi dan adopsi, membantu masyarakat merasakan langsung nilai Pi serta membangun kepercayaan terhadap kegunaannya.  
 
 ---
 
-## 🗓️ Field Plan 2025 – Pi Mobile  
-
-**Warung Pi Ntar – Pi Mobile** will operate as a community-based outreach program focused on *education, demonstration, and activation* of the Pi economy in local environments such as campuses, marketplaces, and neighborhoods.  
-
-*Warung Pi Ntar – Pi Mobile* akan beroperasi sebagai program berbasis komunitas yang berfokus pada *edukasi, demonstrasi, dan aktivasi* ekonomi Pi di lingkungan lokal seperti kampus, pasar, dan permukiman.  
-
----
-
-### 🧭 Implementation Phases  
-
-| Phase | Period | Focus | Key Activities |
-|:------|:-------|:-------|:----------------|
-| **Phase 1** | Jan–Apr 2025 | Preparation & Outreach | Vehicle branding, volunteer recruitment, Pi education materials, campus coordination. |
-| **Phase 2** | May–Aug 2025 | Field Launch | Campus roadshow, Pi merchant onboarding, field demo transactions, data collection. |
-| **Phase 3** | Sep–Dec 2025 | Expansion & Evaluation | Cross-district visits, Pi user feedback, micro-merchant mentoring, evaluation report. |
-
-*🧭 Tahapan Implementasi:*  
+## 🗓️ Rencana Lapangan 2025 – Pi Mobile  
 
 | Tahap | Periode | Fokus | Kegiatan Utama |
-|:------|:-------|:-------|:----------------|
+|:------|:-------|:------|:----------------|
 | **Tahap 1** | Jan–Apr 2025 | Persiapan & Sosialisasi | Branding kendaraan, rekrut relawan, materi edukasi Pi, koordinasi kampus. |
-| **Tahap 2** | Mei–Ags 2025 | Peluncuran Lapangan | Roadshow kampus, onboarding merchant Pi, demo transaksi, pengumpulan data lapangan. |
-| **Tahap 3** | Sep–Des 2025 | Perluasan & Evaluasi | Kunjungan antar wilayah, umpan balik pengguna Pi, pendampingan merchant kecil, laporan evaluasi. |  
+| **Tahap 2** | Mei–Ags 2025 | Peluncuran Lapangan | Roadshow kampus, onboarding merchant, demo transaksi, pengumpulan data lapangan. |
+| **Tahap 3** | Sep–Des 2025 | Perluasan & Evaluasi | Kunjungan antar wilayah, umpan balik pengguna Pi, pendampingan merchant kecil, laporan evaluasi. |
 
 ---
 
-### 📍 Target Areas  
-
-- IAIN Curup Campus and surrounding student housing  
-- Local markets and mini warungs accepting Pi payments  
-- Small community events promoting digital economy awareness  
-
-*📍 Area Sasaran:*  
+## 📍 Area Sasaran  
 - Kampus IAIN Curup dan kawasan kos mahasiswa sekitar  
 - Pasar lokal dan warung kecil yang mulai menerima Pi  
 - Acara komunitas kecil bertema ekonomi digital dan gotong royong  
 
 ---
 
-### 🤝 Expected Collaborations  
-
-- Student organizations and Pi community volunteers  
-- Local merchants and campus entrepreneurs  
-- Educational institutions and local government support  
-
-*🤝 Kolaborasi yang Diharapkan:*  
+## 🤝 Kolaborasi yang Diharapkan  
 - Organisasi mahasiswa dan relawan komunitas Pi  
 - Pedagang lokal dan wirausahawan kampus  
 - Lembaga pendidikan serta dukungan pemerintah daerah  
 
 ---
 
-### 🌱 Long-Term Vision  
-
-The Pi Mobile initiative aims to evolve into a **“Smart Pi Community Hub”**, serving as a model of micro-economy transformation driven by decentralized innovation and digital inclusion.  
-
-*🌱 Visi Jangka Panjang:*  
+## 🌱 Visi Jangka Panjang  
 Inisiatif Pi Mobile bertujuan berkembang menjadi **“Smart Pi Community Hub”**, sebagai model transformasi ekonomi mikro berbasis inovasi desentralisasi dan inklusi digital.  
 
 ---
 
-## 🔄 Ecosystem Flow – Warung Pi Ntar & Pi Mobile  
-
-Below is the conceptual flow showing how **Warung Pi Ntar** and **Pi Mobile** work together to strengthen Pi Network adoption and community engagement.  
-
-*Berikut alur konseptual yang menunjukkan bagaimana **Warung Pi Ntar** dan **Pi Mobile** saling terhubung dalam memperkuat adopsi Pi Network dan keterlibatan komunitas.*  
+## 🔄 Alur Ekosistem – Warung Pi Ntar & Pi Mobile  
 
 ```text
                   ┌──────────────────────────┐
                   │      WARUNG PI NTAR      │
-                  │ (Main Pi Center & Hub)   │
+                  │ (Pusat Utama & Hub)      │
                   └────────────┬─────────────┘
                                │
                                ▼
                  ┌──────────────────────────┐
                  │        PI MOBILE         │
-                 │ (Outreach & Activation)  │
+                 │ (Outreach & Aktivasi)    │
                  └────────────┬─────────────┘
                                │
         ┌──────────────────────┼───────────────────────┐
         ▼                      ▼                       ▼
 ┌─────────────┐        ┌─────────────┐         ┌────────────────┐
-│  STUDENTS   │        │  MERCHANTS  │         │  LOCAL COMMUNITY│
-│ Education   │        │ Onboarding  │         │ Awareness       │
+│  MAHASISWA  │        │  PEDAGANG   │         │  KOMUNITAS LOKAL│
+│ Edukasi     │        │ Onboarding  │         │ Kesadaran       │
 └──────┬──────┘        └──────┬──────┘         └────────┬────────┘
        │                      │                         │
        └──────────────┬───────┴──────────────┬──────────┘
                       ▼                      ▼
             ┌──────────────────────────┐   ┌──────────────────────────┐
-            │ PI TRANSACTIONS & USES   │   │ FEEDBACK & COLLABORATION │
+            │ TRANSAKSI & PENGGUNAAN PI │   │ UMPAN BALIK & KOLABORASI │
             └────────────┬─────────────┘   └────────────┬─────────────┘
+                         │                           │
                          ▼                           ▼
+                 ┌──────────────────────────┐
+                 │        PI MAP 🗺️         │
+                 │ Merchant Resmi Pi        │
+                 │ & Jaringan Warung Pi     │
+                 └────────────┬─────────────┘
+                               ▼
                  ┌──────────────────────────────┐
-                 │ STRENGTHENED PI ECOSYSTEM 🌐 │
+                 │ EKO-SISTEM PI YANG TERKUAT 🌐 │
                  └──────────────────────────────┘
-````
-
-🧩 **Description / Penjelasan**
-
-* Warung Pi Ntar acts as the base hub — the fixed center of education, mentoring, and collaboration.
-* Pi Mobile functions as the active outreach unit — bringing knowledge, tools, and real usage to the field.
-* Students, merchants, and communities are key stakeholders who drive the ecosystem.
-* Feedback loops ensure continuous improvement and wider adoption.
-
-*Warung Pi Ntar berperan sebagai pusat utama edukasi, pendampingan, dan kolaborasi.*
-*Pi Mobile menjadi unit aktif lapangan yang membawa edukasi dan adopsi langsung ke masyarakat.*
-*Mahasiswa, pedagang, dan komunitas adalah penggerak utama ekosistem.*
-*Umpan balik lapangan memastikan peningkatan berkelanjutan dan adopsi yang makin luas.*
+```
 
 ---
 
-## 🤝 Collaboration & Submission Context
-
-This project is developed for potential inclusion in:
-
-* **Pi Hackathon 2025** – as a real-world adoption and education initiative.
-* **Pi Ventures** – as a long-term sustainable Pi-based micro-economy model.
-
-*Proyek ini dikembangkan untuk berpotensi diajukan ke:*
-
-* **Pi Hackathon 2025** – sebagai inisiatif edukasi dan adopsi nyata.
-* **Pi Ventures** – sebagai model ekonomi mikro berbasis Pi yang berkelanjutan.*
+## 🗺️ Integrasi Pi Map 📍
+**Pi Map** memvisualisasikan semua merchant yang telah bekerja sama secara formal dalam ekosistem Warung Pi Ntar.  
+Pengguna dapat melihat merchant resmi Pi, memantau adopsi nyata, dan memahami jaringan transaksi Pi yang terhubung.  
+Peta ini bersifat konsep digital terbuka dan dapat berkembang seiring bertambahnya merchant dan pengguna.  
 
 ---
 
-## 📫 Contact
-
-Maintained by **M. Barqi D.**
-📍 Rejang Lebong, Bengkulu, Indonesia
-📧 Email: **[mbarqid@yahoo.com]
----
-
+## 📫 Kontak  
+Dikelola oleh **M. Barqi D.**  
+📍 *Rejang Lebong, Bengkulu – Indonesia*  
+📧 **mbarqid@yahoo.com**
