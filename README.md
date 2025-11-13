@@ -129,7 +129,6 @@ The Pi Mobile initiative aims to grow into a **“Smart Pi Community Hub”**, m
                  ┌──────────────────────────────┐
                  │ EXPANDED PI ECOSYSTEM 🌐     │
                  └──────────────────────────────┘
-```
 
 ---
 
@@ -139,79 +138,16 @@ The **Pi Map** visualizes all formally partnered merchants within the Warung Pi 
 
 ---
 
-# Warung Pi Ntar | Official Pi Center Project
-Status Category License Location Network
+📫 Contact
+Maintained by M. Barqi D.
+📍 Rejang Lebong, Bengkulu – Indonesia
+📧 mbarqid@yahoo.com
 
-🇬🇧 English Version  
-🌍 Overview  
-Warung Pi Ntar is an Official Pi Center Project — a hub for information, education, incubation, and collaboration that promotes real-world Pi adoption.
+## Documentation
+- [Project Overview](./docs/PROJECT_OVERVIEW.md)
+- [Merchant Partnership Model](./docs/MERCHANT_MODEL.md)
 
-Located near IAIN Curup, Indonesia, it integrates daily economic activities (a community store and learning hub) with Pi Network education and implementation. It serves as both a community center and live demonstration site for the Pi ecosystem.
-
-🎯 Objectives
-- Promote the real-life utility of Pi Network.  
-- Provide education and mentoring for new Pioneers.  
-- Create a community-based marketplace using Pi as a medium of exchange.  
-- Serve as a model project for Pi Ventures and Pi-based entrepreneurs.  
-
-🧩 Components
-- **Warung (Store)** – Daily needs shop accepting Pi.  
-- **Pi EduHub** – Training and mentoring center.  
-- **Pi Lab** – Incubation and collaboration space for Pi-based innovation.  
-
-🚀 Vision  
-To make Pi a part of everyday life — from campus to community.
-
----
-
-## 🚚 Warung Pi Ntar – Pi Mobile
-To extend its mission into real-life impact, Warung Pi Ntar launches Pi Mobile — a mobile initiative designed to reach communities directly, promote Pi education, and demonstrate the use of Pi in daily transactions.
-
-🎯 Objectives
-- 🚀 Deliver Pi awareness and education directly to students, merchants, and local communities.  
-- 💱 Demonstrate everyday transactions using Pi in simple, relatable ways.  
-- 🛍️ Encourage micro-merchants and small warungs to accept Pi as payment.  
-- 🌍 Strengthen the local Pi ecosystem through mobility and visibility.  
-
-🔧 Activities
-- 🚌 Roadshows and pop-up stalls under the “Warung Pi Ntar – Pi Mobile” brand.  
-- 👥 Field mentoring and onboarding for new Pi users.  
-- 🛒 Small-scale Pi transactions and community engagement events.  
-- 📚 Distribution of educational materials and Pi merchandise.  
-
-💡 Impact  
-Pi Mobile acts as a real-world bridge between education and adoption, helping people experience the value of Pi firsthand while building trust in its practicality.
-
-🗓️ 2025 Field Plan – Pi Mobile
-| Phase | Period | Focus | Key Activities |
-|--------|---------|--------|----------------|
-| Phase 1 | Jan–Apr 2025 | Preparation & Outreach | Vehicle branding, volunteer recruitment, Pi education materials, campus coordination. |
-| Phase 2 | May–Aug 2025 | Field Launch | Campus roadshow, merchant onboarding, demo transactions, data collection. |
-| Phase 3 | Sep–Dec 2025 | Expansion & Evaluation | Cross-district visits, user feedback, micro-merchant mentoring, evaluation report. |
-
-📍 **Target Areas**
-- IAIN Curup campus and nearby student housing  
-- Local markets and micro-warungs accepting Pi  
-- Community events promoting the digital economy  
-
-🤝 **Collaborations**
-- Student organizations and Pi community volunteers  
-- Local merchants and campus entrepreneurs  
-- Educational institutions and local government  
-
-🌱 **Long-Term Vision**  
-The Pi Mobile initiative aims to grow into a “Smart Pi Community Hub”, modeling the transformation of local micro-economies through decentralized innovation and digital inclusion.
-
----
-
-## 🔄 Ecosystem Flow – Warung Pi Ntar & Pi Mobile
-
-
-### 📫 Contact  
-Maintained by **M. Barqi D.**  
-📍 *Rejang Lebong, Bengkulu – Indonesia*  
-📧 **mbarqid@yahoo.com**
-
+...
 
 **Indonesia version**
 
